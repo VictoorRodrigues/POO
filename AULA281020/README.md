@@ -1,15 +1,16 @@
 # POO
 Programação Orientada a Objeto
 
-Resolução do Exercício da aula 07/10 e 08/10
+Resolução do Exercício da aula 28/10
 
-Você deverá criar um repositório no GitHub que contenha um projeto Java utilizado na nossa disciplina.
-Esse projeto deverá conter informações sobre o que é o projeto no arquivo README.md.
+Você deverá fazer uma pesquisa sobre o uso do método construtor na linguagem de programação Java. Em seguida, deverá criar um exemplo simples de classe que faça o uso desse método construtor.
 
-Professor: Lucas Moura.
+Esse projeto Java deverá ser enviado para um repositório público do GitHub, e deverá conter as duas classes: uma classe Principal (com o método main) e uma classe qualquer.
 
-No código feito em java, é feita a criação de dois objetos, cujos estão próximos a mim, no real(um computador e uma bicicleta), fazendo assim a inclusão dos mesmos, no virtual. Finalizando, segue:
+A classe que não contém o método main, deverá conter:
 
--2(Dois) Objetos
-- Três características (atributos). Que são referentes aos dois objetos.
-- Dois comportamentos (métodos). Feitos para aparesentar os objetos e suas características.
+- 2 atributos private;
+- métodos acessores (get/set) para todos os atributos;
+- método construtor utilizando os atributos da classe;
+
+Na classe Principal (com o método main), deverá ser criado um objeto que é uma instância da outra classe. Este objeto deverá ser construído passando os parâmetros do método construtor.
