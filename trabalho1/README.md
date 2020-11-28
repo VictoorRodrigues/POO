@@ -1,10 +1,10 @@
 
 # Arquivos
 
-Principal.java
-Filme.java
-Serie.java
-Video.java
+-Principal.java
+-Filme.java
+-Serie.java
+-Video.java
 
 
 ## Descrição
@@ -20,7 +20,7 @@ Trabalho 01 de Programação Orientada a Objeto. Cujo objetivo era criar um proj
 
 ## Execução
 O trabalho 01, teve como objetivo a execução e demonstração de absorção dos temas trabalhados, sendo:
-- Pilares da POO; 
+- -Pilares da POO; 
 -  Abstração; 
 -  Encapsulamento; 
 -  Interfaces;
