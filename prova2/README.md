@@ -3,6 +3,7 @@
 
 Pacotes:
 br.edu.iftm.rpg {Inimigo.java, Jogador.java, Luta.java}
+
 br.edu.iftm.teste{RpgTeste.java}
 
 ## Descrição
